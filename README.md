@@ -4,7 +4,7 @@ Aplicação Next.js com pipeline completo de CI/CD configurado com GitHub Action
 
 ## 🔗 Link do projeto publicado
 
-> Adicione aqui o link da Vercel após o deploy: https://seu-projeto.vercel.app
+> Adicione aqui o link da Vercel após o deploy: ci-cd-nextjs-phi.vercel.app
 
 ## 🚀 Como rodar localmente
 
